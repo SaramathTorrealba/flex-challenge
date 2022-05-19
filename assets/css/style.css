@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.direction{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
+.main-image{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.main-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: -49px;
+    margin-left: 20px;
+    margin-top: -69px;
+}
+.image-heigth{
+    height: 229px;
+    
+}
+
+.chat{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 309px;
+    border-right: 1px solid;
+}
+.image-maria{
+    height: 55px;
+    border-radius: 30px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.paragraph{
+    padding-top: 17px;
+    padding-left: 73px;
+    
+}
+.border{
+    border-bottom: 1px solid;
+   
+}
+.button{
+    display:flex;
+    justify-content: center;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.chat-message{
+    display: flex;
+    justify-content: flex-start;
+    height: 100vh;
+    margin-top: 11px;
+}
+.padding-chat{
+    padding-left: 20px;
+}
+
+    
